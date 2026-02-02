@@ -5,7 +5,7 @@ Hello World! Welcome to my profile
 
 - 👨‍💻 All of my projects are available at [sachdevalucky04-maker](sachdevalucky04-maker)
 
-- 💬 Ask me about **Data Structures, Advance Excel ,Power Bi, Python ,C++**
+- 💬 Ask me about **Data Structures, Advance Excel ,Power Bi, Python , SQL , C++**
 
 - 📫 How to reach me **sachdevalucky04@gmail.com**
 
